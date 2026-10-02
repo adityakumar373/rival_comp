@@ -1,4 +1,4 @@
-# ⚡ Rival Comp — AI Competitor Intelligence & Market Monitoring Platform
+# Rival Comp — AI Competitor Intelligence & Market Monitoring Platform
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg?style=flat-square&logo=python)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688.svg?style=flat-square&logo=fastapi)](https://fastapi.tiangolo.com/)
